@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/dritta-in-diritto/open-depot/main/mockup/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/dritta-in-diritto/open-depot/main/mockup/scrennshot.jpg">
 
 ---
 
